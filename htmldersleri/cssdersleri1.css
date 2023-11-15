@@ -1,0 +1,9 @@
+.kutu1 {background-color: green; color: white; width: 100px; height: 50px; text-align: center; }
+.kutu2 {background-color: rgb(19, 0, 128); color: white; width: 100px; height: 50px;text-align: center;}
+.kutu3 {background-color: rgb(131, 101, 11); color: white; width: 100px; height: 50px;text-align: center;}
+#kutu4 {border-radius: 50% ; background-color: rgb(131, 11, 75) ; color: white; width: 100px; height: 50px;text-align: center;}
+#deneme  { background-color: rgb(131, 11, 75) ; color: white; width: 100px; height: 50px;text-align: center;transition: 5s;border:2px solid rgb(217, 122, 6) ;}
+#deneme:hover {background-color: rgb(131, 11, 75) ; color: white; width: 200px; height: 80px; transition:5s ;border-radius: 50px 50px 50px 50px;}
+.body {background-image:url('/image/html.png');background-repeat: no-repeat; background-position: center;}
+.kutu5 {background-color: green;}
+.kutu6 {width: 200px;}

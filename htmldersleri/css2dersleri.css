@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,500&display=swap');
+*{font-family: 'Open Sans', sans-serif;}
+p.coloredp {color: rgb(6, 24, 24);}
+.renk {color: rgb(164,53, 240);}
+.renk2 {color: #1C5B5F;}
+#mydiv {width:200px ;height: 200px;background-color: red;opacity: 1;float: left;}
+#mydiv:hover {opacity: 0.5 ; transition:1s; }  
+.kenarlık {width:200px ;height: 200px; background-color: red;float: left;margin: 0px 15px ;}
+.kenarlık:hover {border-bottom:5px dotted black ;}
